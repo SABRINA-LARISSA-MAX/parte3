@@ -1,0 +1,36 @@
+strong{color: #10FFFFF;}
+em {color:#AA0102;}
+body{}
+p{
+	text-align:width;
+}
+
+h1
+{text-align:center;
+border:10px solid;
+}
+
+h2
+{text-align:center;}
+ul{display: aling-block;
+vertical-align:top;
+width: 20%;
+margin-right: 15%;}
+
+
+#missao{
+	font-size:20px ;text-align: center;
+
+}
+#banner{
+	width: 100%;
+}
+
+.principal{background: #CCCCCC;
+padding: 30px}
+
+.itens{font-style: italic}
+
+.beneficios{background: #FFFFFF;
+padding: 20px;}
+.imagenbeneficios{width: 50%}
